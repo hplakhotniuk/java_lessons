@@ -1,6 +1,5 @@
 package com.company;
 import java.util.Scanner;
-
 enum Season {
     WINTER, SPRING, SUMMER, AUTUMN
 }
